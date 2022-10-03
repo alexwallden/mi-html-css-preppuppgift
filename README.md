@@ -1,3 +1,3 @@
 # mi-html-css-preppuppgift
 Förberedelseuppgift HTML CSS
-Min första uppgift på Medieinstitutet
+Min första uppgift på Medieinstitutet.
